@@ -18,7 +18,7 @@ const HeroSection = () => {
         <div className="text-center">
           {/* Main Heading */}
           <h1 className="font-heading font-heading-bold text-4xl sm:text-5xl lg:text-6xl text-white mb-6">
-            Sahayam se
+            Sahayam
             <br />
             {/*<span className="text-white/90">Badlav Laayein</span>*/}
           </h1>
