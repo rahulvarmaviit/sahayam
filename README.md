@@ -90,10 +90,11 @@ This project uses Tailwind CSS for styling. The configuration includes:
 The app is built with responsive design using Tailwind CSS breakpoints.
 
 
-## 📦 Deployment
+## 📦 Deploymentt
 
 Build the application for production:
 
 ```bash
 npm run build
 ```
+
