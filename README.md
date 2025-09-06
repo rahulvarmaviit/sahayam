@@ -1,6 +1,6 @@
 # React
 
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
+A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications..
 
 ## 🚀 Features
 
@@ -97,5 +97,6 @@ Build the application for production:
 ```bash
 npm run build
 ```
+
 
 
